@@ -43,6 +43,9 @@ export class InputComponent extends React.Component{
     if(this.props.onChange)      this.props.onChange(value);
     if(this.props.onValueChange) this.props.onValueChange(value);
   }
+  componentWillReceiveProps(nextProps){
+    if(nextProps.value !== this.props.value) this.setState({value:nextProps.value});
+  }
   focus(){
     this.refs.inputBox.focus()
   }

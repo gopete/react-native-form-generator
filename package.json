@@ -3,39 +3,61 @@
     [
       "https://github.com/MichaelCereda/react-native-form-generator.git",
       "/Users/michael/Projects/OpenSource/TestApp"
+    ],
+    [
+      {
+        "raw": "react-native-form-generator@git+https://github.com/gopete/react-native-form-generator.git",
+        "scope": null,
+        "escapedName": "react-native-form-generator",
+        "name": "react-native-form-generator",
+        "rawSpec": "git+https://github.com/gopete/react-native-form-generator.git",
+        "spec": "git+https://github.com/gopete/react-native-form-generator.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:gopete/react-native-form-generator.git",
+          "sshUrl": "git+ssh://git@github.com/gopete/react-native-form-generator.git",
+          "httpsUrl": "git+https://github.com/gopete/react-native-form-generator.git",
+          "gitUrl": "git://github.com/gopete/react-native-form-generator.git",
+          "shortcut": "github:gopete/react-native-form-generator",
+          "directUrl": "https://raw.githubusercontent.com/gopete/react-native-form-generator/master/package.json"
+        }
+      },
+      "/home/gilles/Apps/ReactNative/VendorBoxClient"
     ]
   ],
-  "_from": "git+https://github.com/MichaelCereda/react-native-form-generator.git",
-  "_id": "react-native-form-generator@0.7.2",
+  "_from": "git+https://github.com/gopete/react-native-form-generator.git",
+  "_id": "react-native-form-generator@0.9.10",
   "_inCache": true,
   "_installable": true,
   "_location": "/react-native-form-generator",
   "_phantomChildren": {},
   "_requested": {
-    "hosted": {
-      "directUrl": "https://raw.githubusercontent.com/MichaelCereda/react-native-form-generator/master/package.json",
-      "gitUrl": "git://github.com/MichaelCereda/react-native-form-generator.git",
-      "httpsUrl": "git+https://github.com/MichaelCereda/react-native-form-generator.git",
-      "shortcut": "github:MichaelCereda/react-native-form-generator",
-      "ssh": "git@github.com:MichaelCereda/react-native-form-generator.git",
-      "sshUrl": "git+ssh://git@github.com/MichaelCereda/react-native-form-generator.git",
-      "type": "github"
-    },
-    "name": null,
-    "raw": "https://github.com/MichaelCereda/react-native-form-generator.git",
-    "rawSpec": "https://github.com/MichaelCereda/react-native-form-generator.git",
+    "raw": "react-native-form-generator@git+https://github.com/gopete/react-native-form-generator.git",
     "scope": null,
-    "spec": "git+https://github.com/MichaelCereda/react-native-form-generator.git",
-    "type": "hosted"
+    "escapedName": "react-native-form-generator",
+    "name": "react-native-form-generator",
+    "rawSpec": "git+https://github.com/gopete/react-native-form-generator.git",
+    "spec": "git+https://github.com/gopete/react-native-form-generator.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:gopete/react-native-form-generator.git",
+      "sshUrl": "git+ssh://git@github.com/gopete/react-native-form-generator.git",
+      "httpsUrl": "git+https://github.com/gopete/react-native-form-generator.git",
+      "gitUrl": "git://github.com/gopete/react-native-form-generator.git",
+      "shortcut": "github:gopete/react-native-form-generator",
+      "directUrl": "https://raw.githubusercontent.com/gopete/react-native-form-generator/master/package.json"
+    }
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/MichaelCereda/react-native-form-generator.git#f67d26986f3916668d0c3e9e74b66d0ed6165cba",
-  "_shasum": "cca28fd48d65a98a0a502b5cf84c3b02462ac1c9",
+  "_resolved": "git+https://github.com/gopete/react-native-form-generator.git#1bebb690c8f388e5c885085a2e37afbf1f688df9",
+  "_shasum": "e0b8ba2e44dfa8933f0708439ed79a6377fb0266",
   "_shrinkwrap": null,
-  "_spec": "https://github.com/MichaelCereda/react-native-form-generator.git",
-  "_where": "/Users/michael/Projects/OpenSource/TestApp",
+  "_spec": "react-native-form-generator@git+https://github.com/gopete/react-native-form-generator.git",
+  "_where": "/home/gilles/Apps/ReactNative/VendorBoxClient",
   "author": {
     "name": "Michael Cereda",
     "url": "info@michaelcereda.com"
@@ -45,6 +67,7 @@
   },
   "dependencies": {},
   "description": "Generate amazing React Native forms in a breeze",
+  "devDependencies": {},
   "gitHead": "f67d26986f3916668d0c3e9e74b66d0ed6165cba",
   "homepage": "https://github.com/MichaelCereda/react-native-form-generator#readme",
   "keywords": [
